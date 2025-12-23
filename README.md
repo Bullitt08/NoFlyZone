@@ -119,7 +119,7 @@ noflyzone/
 
 ## API Referansı
 
-Uygulama, gerçek zamanlı uçak verilerini çekmek için [OpenSky Network API](https://opensky-network.org/apidoc/) kullanır.
+Uygulama, gerçek zamanlı uçak verilerini çekmek için [OpenSky Network API](https://openskynetwork.github.io/opensky-api/) kullanır.
 
 **Endpoint'ler:**
 - States API: `https://opensky-network.org/api/states/all`
